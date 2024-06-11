@@ -55,7 +55,7 @@ By tuning the regularization parameter (alpha), Ridge Regression can effectively
 Random Forest Regression is an ensemble learning technique that constructs multiple decision trees during training and outputs the average prediction of the individual trees.
 Random Forest models are known for their robustness, scalability, and ability to capture complex relationships in the data.
 
-#Model Evaluation
+# Model Evaluation
 
 The performance of each regression model is evaluated using various metrics, including:
 
@@ -64,10 +64,10 @@ The performance of each regression model is evaluated using various metrics, inc
 3. Root Mean Squared Error (RMSE): A measure of the differences between predicted values and observed values.
 4. Cross-validation scores: Average performance scores obtained through k-fold cross-validation to assess model robustness.
 
-#Results and Discussion
+# Results and Discussion
 
 The results of the regression models are analyzed and compared to identify the most accurate predictor of traffic flow. Insights gained from the analysis can inform decision-making processes related to traffic management, infrastructure planning, and urban development.
 
 # License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
